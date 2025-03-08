@@ -3,7 +3,7 @@ Information Gathering Techiques
 
 # To perform information gathering techniques
 
-### NAME: HFEEZUL DEEN S
+### NAME: HAFEEZUL DEEN S
 ### REG. NO: 212223220028
 
 # AIM:
